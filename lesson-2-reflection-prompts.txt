@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The changes made in the two branch ends is combined and one of the labels gets deleted. We do this to point out the version which did not have a particular feature. 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
